@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.venv/
+chess_arcade.db
+.env
